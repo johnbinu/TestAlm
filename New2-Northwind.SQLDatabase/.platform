@@ -3,5 +3,8 @@
   "metadata": {
     "type": "SQLDatabase",
     "displayName": "New2-Northwind.SQLDatabase"
+  },
+  "config": {
+    "version": "2.0"
   }
 }
