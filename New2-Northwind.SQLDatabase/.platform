@@ -5,6 +5,7 @@
     "displayName": "New2-Northwind.SQLDatabase"
   },
   "config": {
-    "version": "2.0"
+    "version": "2.0",
+    "logicalId": "a58a04b9-8658-4e89-9141-990f2a4c574c"
   }
 }
