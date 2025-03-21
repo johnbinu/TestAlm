@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SQLDatabase",
+    "displayName": "TestRestore1"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0d66dd82-177a-b2b0-48d2-a5324883ad91"
+  }
+}
